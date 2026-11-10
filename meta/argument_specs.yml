@@ -7,5 +7,5 @@ argument_specs:
     options:
       motd_message:
         type: str
-        default: Authorized use only
+        default: Authorized users only
         description: Text shown at login.

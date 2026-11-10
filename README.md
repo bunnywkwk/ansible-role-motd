@@ -8,7 +8,7 @@ This repo holds role code only. CI comes from [ansible-pipeline](https://github.
 
 | Variable | Default | Meaning |
 | --- | --- | --- |
-| `motd_message` | `Authorized use only` | Text shown at login |
+| `motd_message` | `Authorized users only` | Text shown at login |
 
 ## Example playbook
 
