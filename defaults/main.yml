@@ -1,0 +1,3 @@
+---
+# Text shown at login.
+motd_message: "Authorized use only"

@@ -1,0 +1,11 @@
+---
+argument_specs:
+  main:
+    short_description: Set the login message.
+    description:
+      - Writes O(motd_message) to /etc/motd.
+    options:
+      motd_message:
+        type: str
+        default: Authorized use only
+        description: Text shown at login.
